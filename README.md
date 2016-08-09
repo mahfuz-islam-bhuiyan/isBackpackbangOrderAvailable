@@ -9,9 +9,8 @@ This Google Chrome extension will check whether you can place your order in Back
 - Check "Developer Mode"
 - Hit on "Load unpacked extension..."
 - Go to extracted directory and select "extension_chrome"
-- All done! 
+- All done!
 
-After installation, you'll see a backpack icon at top right corner of your Google Chrome browser. 
-
+After installation, you'll see a backpack icon at top right corner of your Google Chrome browser.
 
 Enjoy!
