@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
 
-    "name": "isBackpackbangOrderAvailabile",
+    "name": "isBackpackbangOrderAvailable",
     "description": "This extension will check whether you can place order in Backpackbang now.",
     "version": "1.0",
 
